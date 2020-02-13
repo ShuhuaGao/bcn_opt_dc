@@ -1,0 +1,10 @@
+A=Ae AND T
+Am=(Aem AND T) OR Ae
+Ara+=(Am OR A) AND Ara-
+C=NOT Ge
+E=MS
+D=NOT Ara+ AND Ara-
+MS=Ara+ AND C AND NOT D
+MT=Ara+ AND C
+T=MT
+[CONTROLS] Ae Aem Ara- Ge
