@@ -1,5 +1,5 @@
 # Optimal Control of Boolean Control Networks with Discounted Cost
-Code accompanying the paper "Shuhua Gao *et al.* Optimal Control of Boolean Control Networks with Discounted Cost: An Efficient Approach based on Deterministic Markov Decision Process" 
+Code accompanying the paper: Gao, Shuhua, Cheng Xiang, and Tong Heng Lee. "Optimal Control of Boolean Control Networks with Discounted Cost: An Efficient Approach based on Deterministic Markov Decision Process." 2020 IEEE 16th International Conference on Control & Automation (ICCA). IEEE, 2020.
 
 **Requirement**
 
